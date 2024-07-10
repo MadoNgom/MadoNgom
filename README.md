@@ -20,8 +20,8 @@ I'm always open to new opportunities and collaborations. Whether you have a proj
 
   <div style="display: flex; ">
     <img src="https://github-readme-stats.vercel.app/api?username=MadoNgom&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadoNgom&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadoNgom&theme=onedark&hide_border=false" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadoNgom&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       
   
   </div>
